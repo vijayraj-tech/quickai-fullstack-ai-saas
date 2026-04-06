@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 node_modules
+<<<<<<< HEAD
 .env
 =======
 # Logs
@@ -142,3 +143,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> 5599e43123d79b17ce9fc4a41eea0cc16fda1fb4
+=======
+.env
+.DS_Store
+>>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
