@@ -31,7 +31,7 @@ cd ../server
 npm install
 npm start
 
-## Daily Update
-- Updated by Vijay 🚀
+## Daily Updates
+- Updated by Vijay
 - Working on improvements
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
