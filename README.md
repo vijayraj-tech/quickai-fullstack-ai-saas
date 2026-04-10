@@ -2,7 +2,7 @@
 
 QuickAI is a full-stack AI-powered SaaS application built using the PERN stack (PostgreSQL, Express, React, Node.js). It provides multiple AI tools like article generation, image tools, and a user dashboard.
 
-## Features
+## Features of QuickAi
 - AI Article Generator
 - Blog Title Generator
 - Image Generation
