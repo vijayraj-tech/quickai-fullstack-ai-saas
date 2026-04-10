@@ -32,6 +32,6 @@ npm install
 npm start
 
 ## Daily Updates
-- Updated by me
+- Updated by me (vijay)
 - Working on improvements
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
