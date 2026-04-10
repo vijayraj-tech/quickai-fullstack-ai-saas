@@ -21,7 +21,7 @@ server/ → Backend
 
 ## Getting Started
 
-### Install dependencies
+### Install Dependencies are -
 ```bash
 cd client
 npm install
