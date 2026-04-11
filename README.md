@@ -1,4 +1,4 @@
-# QuickAI – Full Stack AI SaaS Platform
+# QuickAI – Full Stack AI SaaS Platform with me 
 
 QuickAI is a full-stack AI-powered SaaS application built using the PERN stack (PostgreSQL, Express, React, Node.js). It provides multiple AI tools like article generation, image tools, and a user dashboard.
 
@@ -15,11 +15,11 @@ QuickAI is a full-stack AI-powered SaaS application built using the PERN stack (
 - Backend: Node.js, Express.js
 - Database: PostgreSQL
 
-## Project Structure
+## Project Structure are -
 client/ → Frontend  
 server/ → Backend  
 
-## Getting Started with -
+## Getting Started with me -
 
 ### Install Dependencies are -
 ```bash
