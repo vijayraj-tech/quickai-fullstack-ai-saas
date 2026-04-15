@@ -34,5 +34,5 @@ npm start
 ## Daily Updates are -
 - Updated by vijay
 - Working on improvements
-- daily correction are 
+- daily correction with me 
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
