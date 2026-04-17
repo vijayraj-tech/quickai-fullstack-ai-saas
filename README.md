@@ -31,7 +31,7 @@ cd ../server
 npm install
 npm start
 
-## Daily Updates are -
+## Daily Updates with my sides -
 - Updated by vijay
 - Working on improvements
 - daily correction with me 
