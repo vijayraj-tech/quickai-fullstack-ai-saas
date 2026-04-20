@@ -32,7 +32,7 @@ npm install
 npm start
 
 ## Daily Updates with my sides by me are - -
-- Updated by vijay
+- Updated by vijay Rajpoot
 - Working on improvements are 
-- daily correction with 
+- daily correction with meow
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
