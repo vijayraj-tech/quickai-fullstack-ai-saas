@@ -10,7 +10,7 @@ QuickAI is a full-stack AI-powered SaaS application built using the PERN stack (
 - User Dashboard
 - Authentication System
 
-## Tech Stack Are -
+## Tech Stack Are for this project are =
 - Frontend: React.js (Vite), Tailwind CSS
 - Backend: Node.js, Express.js
 - Database: PostgreSQL
@@ -33,6 +33,6 @@ npm start
 
 ## Daily Updates with my sides by me are - -
 - Updated by vijay Rajpoot
-- Working on improvements are 
+- Working on improvements with daily updates side by me 
 - daily correction with meow
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
