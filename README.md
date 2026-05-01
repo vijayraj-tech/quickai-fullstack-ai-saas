@@ -2,6 +2,8 @@
 
 QuickAI is a full-stack AI-powered SaaS application built using the PERN stack (PostgreSQL, Express, React, Node.js). It provides multiple AI tools like article generation, image tools, and a user dashboard.
 
+after that 
+
 ## Features of QuickAi are -
 - Article Generator With AI
 - Blog Title Generator
@@ -21,18 +23,12 @@ server/ - Backend  devlopment
 
 ## Getting Started with me -
 
-### Install depen -
+### Install dependencies are in this castle -
 ```bash
-cd client
-npm install
-npm run dev
-
-cd ../server
-npm install
-npm start
+ 
 
 ## Daily Updates with my sides by me are - -
-- Updated by vijay Rajpoot
+- Updated by vij
 - Working on improvements with daily updates side by me 
 - daily correction with meow
 >>>>>>> 4586db9bd36b04784d8e27d27c42403d731c6439
