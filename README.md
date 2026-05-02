@@ -21,13 +21,9 @@ after that
 client/ - Frontend  development
 server/ - Backend  devlopment
 
-## Getting Started with me -
-
 ### Install dependencies are in this castle -
 ```bash
- 
-
-## Daily Updates with my sides by me are - -
+ iu7ib77. uyu 6u6
 - Updated by vij
 - Working on improvements with daily updates side by me 
 - daily correction with meow
