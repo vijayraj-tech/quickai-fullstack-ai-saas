@@ -17,7 +17,7 @@ after that
 - Backend: Node.js, Express.js
 - Database: PostgreSQL
 
-## Project Structure more useful for that caduy are -
+## Project Structure more useful for that candy are -
 client/ - Frontend  development
 server/ - Backend  devlopment
 
