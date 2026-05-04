@@ -17,11 +17,11 @@ after that
 - Backend: Node.js, Express.js
 - Database: PostgreSQL
 
-## Project Structure more useful for that candy are -
+## Project Structure more useful are -
 client/ - Frontend  development
 server/ - Backend  devlopment
 
-### Install dependencies are in this castle -
+### Install dependencies are in this castle in  the waffles -
 
 ```bash
  iu7ib77. uyu 6u6
